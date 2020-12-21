@@ -1,44 +1,27 @@
-## Your Name
+## Karsten Finlay
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+Avid video game player and game designer. I have created multiple video games in gam jams or just for fun. I want to keep improving so that I can apply what I learn to improve the overall quality of the games I make.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
-
-## Experience
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
+| **Dodo Alone**               | A video game about a dodo trying to escape her extinction. https://www.youtube.com/watch?v=OE4eqvqEwUo| Unity, C#. |
+| **Gozilla Tries His Best** | A video game about Gozilla fixing Japan. https://globalgamejam.org/2020/games/godzilla-tries-his-best-8| Unity, C#              |
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+### Resilience
 
-#### This Skill
+I am often able to bounce back when in a tough situation. When doing Gold DofE we were told to go to the wrong campsite. The site was flooded and there was no where to set up. So, I decided to carry people's bags to a barn, we decided to rest there instead. 
 
-- Experience
-- Achievements
-- Evidence
+### Inventive
 
-#### Another Skill
+Thinking up interesting game mechanics and design is my speciality. Often at Astral Dawn Studios LTD, I was coming up with ideas of how to make the game stand out from the crowd. We ran a discord server in which we recieved feedback from the public. One of which talked about the game being too slow. So to change this I altered how much resistance there was in the air, and changed the level to feel more fast paced. After that the same user said that the game was much faster.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+### Leadership
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+In many of the game jams I attended, I was often put as the leader as I reached out to people to form groups. I usually help with every area checking up on how everyone is doing. When I was working at the Bristol Global Game Jam 2020, our group didn't really know what to do. So I decided that I would step in and start asking people what they want to do, what their skills were and what game we were aiming for. From there I made sure that people were taking breaks and most importantly still enjoying their work.
 
 ## Education
 
@@ -49,16 +32,12 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
-
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
-
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+-  Really enjoy video games, starting from a very young age, video games have always been a key part in my life, not only playing them, but creating them as well. 
+
+- A bit of a film buff, the cinematography really appeals to me.
+
+- Board games, mostly co-op ones.
+
+- Play squash a when I get the chance.
