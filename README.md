@@ -17,11 +17,11 @@ I am often able to bounce back when in a tough situation. When doing Gold DofE w
 
 ### Inventive
 
-Thinking up interesting game mechanics and design is my speciality. Often at Astral Dawn Studios LTD, I was coming up with ideas of how to make the game stand out from the crowd. We ran a discord server in which we recieved feedback from the public. One of which talked about the game being too slow. So to change this I altered how much resistance there was in the air, and changed the level to feel more fast paced. After that the same user said that the game was much faster.
+Thinking up interesting game mechanics and design is my speciality. Often at Astral Dawn Studios LTD, I was coming up with ideas of how to make the game stand out from the crowd. We ran a discord server in which we recieved feedback from the public. One of which talked about the game being too slow. So to change this I altered how much air resistance affected the dodo, and changed the level to feel more fast paced. After that the same user said that the game was much faster.
 
 ### Leadership
 
-In many of the game jams I attended, I was often put as the leader as I reached out to people to form groups. I usually help with every area checking up on how everyone is doing. When I was working at the Bristol Global Game Jam 2020, our group didn't really know what to do. So I decided that I would step in and start asking people what they want to do, what their skills were and what game we were aiming for. From there I made sure that people were taking breaks and most importantly still enjoying their work.
+In many of the game jams I attended, I was often put as the leader as I reached out to people to form groups. I usually help with every area checking up on how everyone was doing. When I was working at the Bristol Global Game Jam 2020, our group didn't really know what to do. So I decided that I would step in and start asking people what they want to do, what their skills were and what game we were aiming for. From there I made sure that people were taking breaks and most importantly still enjoying their work.
 
 ## Education
 
@@ -36,8 +36,8 @@ In many of the game jams I attended, I was often put as the leader as I reached 
 
 -  Really enjoy video games, starting from a very young age, video games have always been a key part in my life, not only playing them, but creating them as well. 
 
-- A bit of a film buff, the cinematography really appeals to me.
+- A bit of a film buff, cinematography really appeals to me.
 
 - Board games, mostly co-op ones.
 
-- Play squash a when I get the chance.
+- Playing squash.
