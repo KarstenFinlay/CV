@@ -63,9 +63,24 @@ Thinking up interesting game mechanics and design is my speciality. Often at Ast
 
 In many of the game jams I attended, I was often put as the leader as I reached out to people to form groups. I usually help with every area checking up on how everyone was doing. When I was working at the Bristol Global Game Jam 2020, our group didn't really know what to do. So I decided that I would step in and start asking people what they want to do, what their skills were and what game we were aiming for. From there I made sure that people were taking breaks and most importantly still enjoying their work.
 
+## Work experience:
+
+Waiter at St George's House Trust, Windsor, Windsor Castle (Sep 2019 - Dec 2020)
+
+Worked as a waiter, within this role I demostrated essential team-building skills to work effciently during busy periods. I also was quick to help in different areas, working from kitchen porter to helping when staffing was low, I was responsible for making sure the mini bar was kept up to date, and tracked the storage as well.
+
 ## [Education](#Education)
 
-#### Makers Academy (start_date to end_date)
+#### Bradfiled college A levels (2014 - 2018)
+- Maths
+- Physics
+- Economics
+
+#### Makers Academy (Nov2020 to Present - Mar2021)
+
+12 week intensive coding bootcamp.
+
+
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
