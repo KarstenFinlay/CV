@@ -1,6 +1,10 @@
 ## Karsten Finlay
 
-Avid video game player and game designer. I have created multiple video games in gam jams or just for fun. I want to keep improving so that I can apply what I learn to improve the overall quality of the games I make.
+Graduate of Makers, junior full stack developer and enthusiastic learner. Constantly learning and applying my skills to new projects. 
+
+Ever since the start of my journey at Makers Academy I have worked very well in a groups, usually taking a more manage like role, my use of agile tools and skills made it easy to work in large groups, I usually get to the point while taking others into consideration. Communication is a valued skill I possess, key to having a flexable and solid team dynamic.
+
+Avid video game player and game designer. I have created multiple video games in gam jams or just for fun. I want to keep improving so that I can apply what I learn to improve the overall quality of the games I make. 
 
 ## Projects
 
@@ -8,9 +12,9 @@ Avid video game player and game designer. I have created multiple video games in
 | ---------------------------- | ----------------- | ----------------- |
 | **Dodo Alone**               | A video game about a dodo trying to escape her extinction. https://www.youtube.com/watch?v=OE4eqvqEwUo | Unity, C#. |
 | **Gozilla Tries His Best** | A video game about Gozilla fixing Japan. https://globalgamejam.org/2020/games/godzilla-tries-his-best-8 | Unity, C#  |
-| **Spring Onion** | Carbon offsetting app, created to help reduce the amount of carbon emissions given off by cars. https://github.com/KarstenFinlay/SmellsLikeGreenSpirit | React-native, Expo Go, JavaScript  |
-| **SpaceBook** | A FaceBook clone, a CRUD application. https://github.com/KarstenFinlay/acebook-sholk | Ruby on Rails, Ruby, Javascript  |
-| **Air-PhP** | A air bnb clone, testing out the uses of databases. https://github.com/KarstenFinlay/Air-PhP | Sinatra, Ruby  |
+| **Spring Onion** | Carbon offsetting app, created to help reduce the amount of carbon emissions given off by cars. https://github.com/KarstenFinlay/SmellsLikeGreenSpirit | React-native, Expo Go, JavaScript, Jest, CSS |
+| **SpaceBook** | A FaceBook clone, a CRUD application. https://github.com/KarstenFinlay/acebook-sholk | Ruby on Rails, Ruby, Javascript, CSS, HTML, Active Record |
+| **Air-PhP** | A air bnb clone, testing out the uses of databases. https://github.com/KarstenFinlay/Air-PhP | Sinatra, Ruby, SQL, CSS, HTML  |
 
 ## Skills
 
