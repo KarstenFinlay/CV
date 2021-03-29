@@ -1,4 +1,7 @@
-## Karsten Finlay
+# Karsten Finlay
+[Profile](#profile)| [Projects](#projects) | [Software Skills](#software-skills) | [Skills](#Skills) | [Education](#Education)
+
+## [Profile](#Profile):
 
 Graduate of Makers, junior full stack developer and enthusiastic learner. Constantly learning and applying my skills to new projects. 
 
@@ -6,7 +9,7 @@ Ever since the start of my journey at Makers Academy I have worked very well in 
 
 Avid video game player and game designer. I have created multiple video games in gam jams or just for fun. I want to keep improving so that I can apply what I learn to improve the overall quality of the games I make. 
 
-## Projects
+## [Projects](#projects)
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
@@ -16,7 +19,9 @@ Avid video game player and game designer. I have created multiple video games in
 | **SpaceBook** | A FaceBook clone, a CRUD application. https://github.com/KarstenFinlay/acebook-sholk | Ruby on Rails, Ruby, Javascript, CSS, HTML, Active Record |
 | **Air-PhP** | A air bnb clone, testing out the uses of databases. https://github.com/KarstenFinlay/Air-PhP | Sinatra, Ruby, SQL, CSS, HTML  |
 
-## Skills
+## [Software Skills](#software-skills)
+
+## [Skills](#Skills)
 
 ### Resilience
 
@@ -30,7 +35,7 @@ Thinking up interesting game mechanics and design is my speciality. Often at Ast
 
 In many of the game jams I attended, I was often put as the leader as I reached out to people to form groups. I usually help with every area checking up on how everyone was doing. When I was working at the Bristol Global Game Jam 2020, our group didn't really know what to do. So I decided that I would step in and start asking people what they want to do, what their skills were and what game we were aiming for. From there I made sure that people were taking breaks and most importantly still enjoying their work.
 
-## Education
+## [Education](#Education)
 
 #### Makers Academy (start_date to end_date)
 
