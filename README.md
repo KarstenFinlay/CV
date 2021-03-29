@@ -22,27 +22,32 @@ Avid video game player and game designer. I have created multiple video games in
 ## [Software Skills](#software-skills)
 
 * Languages:
-		1. Ruby
-		2. JavaScript
-		3. HTML
-		4. CSS
-		5. C#
-		6. C++
+	1. Ruby
+	2. JavaScript
+	3. HTML
+	4. CSS
+	5. C#
+	6. C++
 
 * Frameworks:
-		1. Rails
-		2. Sinatra
-		3. React-native
-		4. Xcode
+	1. Rails
+	2. Sinatra
+	3. React-native
+	4. Xcode
 
 * Testing-Frameworks:
-		1. Rspec
-		2. Jasmine
-		3. Jest
-		4. Capybara
+	1. Rspec
+	2. Jasmine
+	3. Jest
+	4. Capybara
 
 * CI/CD tools:
-		1. Travis
+	1. Travis
+
+* Great understanding of Github and Git
+* Test driven development
+* Vast knowledge on Agile processes
+* Understanding of object oriented programming 
 
 ## [Skills](#Skills)
 
