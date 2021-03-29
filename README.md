@@ -63,15 +63,26 @@ Thinking up interesting game mechanics and design is my speciality. Often at Ast
 
 In many of the game jams I attended, I was often put as the leader as I reached out to people to form groups. I usually help with every area checking up on how everyone was doing. When I was working at the Bristol Global Game Jam 2020, our group didn't really know what to do. So I decided that I would step in and start asking people what they want to do, what their skills were and what game we were aiming for. From there I made sure that people were taking breaks and most importantly still enjoying their work.
 
+### Teamwork
+
+Work really well in groups 
+
 ## Work experience:
 
-Waiter at St George's House Trust, Windsor, Windsor Castle (Sep 2019 - Dec 2020)
+Waiter at St George's House Trust, Windsor, Windsor Castle (Sep 2019 - May 2020)
 
 Worked as a waiter, within this role I demostrated essential team-building skills to work effciently during busy periods. I also was quick to help in different areas, working from kitchen porter to helping when staffing was low, I was responsible for making sure the mini bar was kept up to date, and tracked the storage as well.
 
+Designer/Developer at Astral Dawn Studios LTD (May 2020 - Sep 2020)
+
+Designer at Astral Dawn Studios was were my passion for coding was found. Here I designed characters, levels and mechanics for Dodo Alone a 2D pixel platformer. I got to grips with Agile processes, sprints, stand ups and retros. Used Github throughout the whole time, so got used to version control, difficult merges and rebases. Clear communication via good commits. Also understood the work flow of working in the tech industry.
+
 ## [Education](#Education)
 
-#### Bradfiled college A levels (2014 - 2018)
+#### Bradfiled college GCSE (2014 - 2016)
+---
+
+#### Bradfiled college A levels (2016 - 2018)
 - Maths
 - Physics
 - Economics
@@ -80,16 +91,13 @@ Worked as a waiter, within this role I demostrated essential team-building skill
 
 12 week intensive coding bootcamp.
 
-
-
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+A very heavy focus on test driven development with an emphasis on pair programming and working with various agile tools such as Trello, object oriented programming, learn languages in good coding convention, taught to be an independent learner and problem-solver. Experience with MVC framework patterns.
 
 ## Hobbies
 
--  Really enjoy video games, starting from a very young age, video games have always been a key part in my life, not only playing them, but creating them as well. 
+- Video games
+
+- Coding 
 
 - A bit of a film buff, cinematography really appeals to me.
 
