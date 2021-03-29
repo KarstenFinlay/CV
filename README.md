@@ -77,6 +77,10 @@ Designer/Developer at Astral Dawn Studios LTD (May 2020 - Sep 2020)
 
 Designer at Astral Dawn Studios was were my passion for coding was found. Here I designed characters, levels and mechanics for Dodo Alone a 2D pixel platformer. I got to grips with Agile processes, sprints, stand ups and retros. Used Github throughout the whole time, so got used to version control, difficult merges and rebases. Clear communication via good commits. Also understood the work flow of working in the tech industry.
 
+<img align="center" src="./Dodo.gif" width="320" height="190" />
+
+<br/>
+
 ## [Education](#Education)
 
 #### Bradfiled college GCSE (2014 - 2016)
