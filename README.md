@@ -65,7 +65,7 @@ In many of the game jams I attended, I was often put as the leader as I reached 
 
 ### Teamwork
 
-Work really well in groups 
+Work really well in groups, in Makers I was usually there to help all around the place. Whenever there was a problem I would be happy to have a look into it, allowing for a more efficient work flow. In the most recent project Spring Onion, a part of the team were having difficulties with a git merge, there were too many conflicting files, to help them not be unbloacked I jumped onto a call with them explaining what I was doing so that they could learn while I was able to fix the problem, allowing them to get back to work.
 
 ## Work experience:
 
