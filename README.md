@@ -44,9 +44,9 @@ Avid video game player and game designer. I have created multiple video games in
 * CI/CD tools:
 	1. Travis
 
-* Great understanding of Github and Git
+* A deep understanding of Github and Git
 * Test driven development
-* Vast knowledge on Agile processes
+* Decent knowledge on Agile processes
 * Understanding of object oriented programming 
 
 ## [Skills](#Skills)
