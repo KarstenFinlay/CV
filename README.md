@@ -61,7 +61,7 @@ While studying at Makers and attending the Bristol Global Game Jam 2020, I reali
 
 ### Leadership
 
-While studying at Makers and attending the Bristol Global Game Jam 2020, I realised that I am an inventive person. In both situations I was able to come up with good ideas or suitable solutions to problems that were encountered. Whether in regard to creativity or problem-solving I have been able to find inventive and efficient ways forward.
+While at Makers, I often found myself as leader of the group in which I was working. Being sensitive and perceptive, I could bring out the best of the strengths and skills of the other group members. Leading a group generally involves motivation and determination to reach the required goal.
 
 ### Teamwork
 
