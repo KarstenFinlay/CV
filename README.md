@@ -3,11 +3,11 @@
 
 ## [Profile](#Profile):
 
-Graduate of Makers, junior full stack developer and enthusiastic learner. Constantly learning and applying my skills to new projects. 
+Graduate of Makers, junior full stack developer and enthusiastic learner. Constantly learning and applying my skills to new projects.
 
-Ever since the start of my journey at Makers Academy I have worked very well in a groups, usually taking a more manage like role, my use of agile tools and skills made it easy to work in large groups, I usually get to the point while taking others into consideration. Communication is a valued skill I possess, key to having a flexible and solid team dynamic.
+Ever since the start of my journey at Makers Academy I have worked very well in groups, usually taking a more managerial like role. My use of agile tools and skills made it easy to work in large groups. I am a good communicator while also being flexible so that I can generate a solid team dynamic.
 
-Avid video game player and game designer. I have created multiple video games in gam jams or just for fun. I want to keep improving so that I can apply what I learn to improve the overall quality of the games I make. 
+Avid video game player and game designer. I have created multiple video games in game jams and just for fun. I want to keep improving so that I can apply what I learn to improve the overall quality of the games I make.
 
 ## [Projects](#projects)
 
@@ -53,29 +53,33 @@ Avid video game player and game designer. I have created multiple video games in
 
 ### Resilience
 
-I am often able to bounce back when in a tough situation. When doing Gold DofE we were told to go to the wrong campsite. The site was flooded and there was nowhere to set up. So, I decided to carry people's bags to a barn, we decided to rest there instead. 
+One of my strengths is that I can bounce back from situations of adversity and stress. This attribute has had a profound effect on my personal growth and has helped me to learn from difficult situations.
 
 ### Inventive
 
-Thinking up interesting game mechanics and design is my speciality. Often at Astral Dawn Studios LTD, I was coming up with ideas of how to make the game stand out from the crowd. We ran a discord server in which we received feedback from the public. One of which talked about the game being too slow. So to change this I altered how much air resistance affected the dodo, and changed the level to feel faster paced. After that the same user said that the game was much faster.
+While studying at Makers and attending the Bristol Global Game Jam 2020, I realised that I am an inventive person. In both situations I was able to come up with good ideas or suitable solutions to problems that were encountered. Whether in regard to creativity or problem-solving I have been able to find inventive and efficient ways forward.
 
 ### Leadership
 
-In many of the game jams I attended, I was often put as the leader as I reached out to people to form groups. I usually help with every area checking up on how everyone was doing. When I was working at the Bristol Global Game Jam 2020, our group didn't really know what to do. So I decided that I would step in and start asking people what they want to do, what their skills were and what game we were aiming for. From there I made sure that people were taking breaks and most importantly still enjoying their work.
+While studying at Makers and attending the Bristol Global Game Jam 2020, I realised that I am an inventive person. In both situations I was able to come up with good ideas or suitable solutions to problems that were encountered. Whether in regard to creativity or problem-solving I have been able to find inventive and efficient ways forward.
 
 ### Teamwork
 
-Work really well in groups, in Makers I was usually there to help all around the place. Whenever there was a problem I would be happy to have a look into it, allowing for a more efficient work flow. In the most recent project Spring Onion, a part of the team were having difficulties with a git merge, there were too many conflicting files, to help them not be unblocked I jumped onto a call with them explaining what I was doing so that they could learn while I was able to fix the problem, allowing them to get back to work.
+Working in groups is a strength of mine. In the most recent project, Spring Onion, a part of the team were having difficulties with a git merge - there were too many conflicting files – so we had a call where I explained how to fix the problem, enabling them to proceed and not lose time. Outside of official group work, I had three mentees to guide and I often answered queries posted to our Slack channel.
+
+#### Other
+
+I have completed the Duke of Edinburgh Gold award. In terms of language, I am an intermediate German user and a Japanese language beginner.
 
 ## Work experience:
 
 Waiter at St George's House Trust, Windsor, Windsor Castle (Sep 2019 - May 2020)
 
-Worked as a waiter, within this role I demonstrated essential team-building skills to work efficiently during busy periods. I also was quick to help in different areas, working from kitchen porter to helping when staffing was low, I was responsible for making sure the mini bar was kept up to date, and tracked the storage as well.
+My experience as a waiter in St George’s House Conference Centre within Windsor Castle enabled me to strengthen my communication and team-building skills. This job also gave me an opportunity to work with people from diverse members of society. This position required careful listening and a willingness to work hard behind the scenes.
 
 Designer/Developer at Astral Dawn Studios LTD (May 2020 - Sep 2020)
 
-Designer at Astral Dawn Studios was were my passion for coding was found. Here I designed characters, levels and mechanics for Dodo Alone a 2D pixel platformer. I got to grips with agile processes, sprints, stand ups and retros. Used Github throughout the whole time, so got used to version control, difficult merges and rebases. Clear communication via good commits. Also understood the work flow of working in the tech industry.
+While working as a designer at Astral Dawn Studios I developed a passion for coding. While there I designed characters, levels and mechanics for Dodo Alone, a 2D pixel platformer. I got to grips with agile processes, sprints, stand ups and retros. Github was used throughout the whole process, so I got used to version control, difficult merges and rebases. Clear communication via good commits was essential. I now also understand the work flow in the tech industry.
 
 <img align="center" src="./Dodo.gif" width="320" height="190" />
 
@@ -103,7 +107,7 @@ A very heavy focus on test driven development with an emphasis on pair programmi
 
 - Video games
 
-- Coding 
+- Travelling 
 
 - A bit of a film buff, cinematography really appeals to me.
 
