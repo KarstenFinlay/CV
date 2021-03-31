@@ -65,7 +65,7 @@ While studying at Makers and attending the Bristol Global Game Jam 2020, I reali
 
 ### Teamwork
 
-Working in groups is a strength of mine. In the most recent project, Spring Onion, a part of the team were having difficulties with a git merge - there were too many conflicting files – so we had a call where I explained how to fix the problem, enabling them to proceed and not lose time. Outside of official group work, I had three mentees to guide and I often answered queries posted to our Slack channel.
+Working in groups is a strength of mine. In the most recent project, Spring Onion, a part of the team were having difficulties with a git merge - there were too many conflicting files - so we had a call where I explained how to fix the problem, enabling them to proceed and not lose time. Outside of official group work, I had three mentees to guide and I often answered queries posted to our Slack channel.
 
 #### Other
 
@@ -75,7 +75,7 @@ I have completed the Duke of Edinburgh Gold award. In terms of language, I am an
 
 **Waiter at St George's House Trust, Windsor, Windsor Castle (Sep 2019 - May 2020)**
 
-My experience as a waiter in St George’s House Conference Centre within Windsor Castle enabled me to strengthen my communication and team-building skills. This job also gave me an opportunity to work with people from diverse members of society. This position required careful listening and a willingness to work hard behind the scenes.
+My experience as a waiter in St Georgeï¿½s House Conference Centre within Windsor Castle enabled me to strengthen my communication and team-building skills. This job also gave me an opportunity to work with people from diverse members of society. This position required careful listening and a willingness to work hard behind the scenes.
 
 **Designer/Developer at Astral Dawn Studios LTD (May 2020 - Sep 2020)**
 
@@ -97,7 +97,7 @@ While working as a designer at Astral Dawn Studios I developed a passion for cod
 - Physics
 - Economics
 
-#### Makers Academy (Nov2020 to Present - Mar2021)
+#### Makers Academy (Nov 2020 - Mar 2021)
 
 12 week intensive coding bootcamp.
 
