@@ -7,7 +7,7 @@ Graduate of Makers, junior full stack developer and enthusiastic learner. Consta
 
 Ever since the start of my journey at Makers Academy I have worked very well in groups, usually taking a more managerial like role. My use of agile tools and skills made it easy to work in large groups. I am a good communicator while also being flexible so that I can generate a solid team dynamic.
 
-Avid video game player and game designer. I have created multiple video games in game jams and just for fun. I want to keep improving so that I can apply what I learn to improve the overall quality of the games I make.
+Avid video game player and game designer. I have created multiple video games in game jams and just for fun.
 
 ## [Projects](#projects)
 
