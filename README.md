@@ -73,11 +73,11 @@ I have completed the Duke of Edinburgh Gold award. In terms of language, I am an
 
 ## Work experience:
 
-Waiter at St George's House Trust, Windsor, Windsor Castle (Sep 2019 - May 2020)
+**Waiter at St George's House Trust, Windsor, Windsor Castle (Sep 2019 - May 2020)**
 
 My experience as a waiter in St George’s House Conference Centre within Windsor Castle enabled me to strengthen my communication and team-building skills. This job also gave me an opportunity to work with people from diverse members of society. This position required careful listening and a willingness to work hard behind the scenes.
 
-Designer/Developer at Astral Dawn Studios LTD (May 2020 - Sep 2020)
+**Designer/Developer at Astral Dawn Studios LTD (May 2020 - Sep 2020)**
 
 While working as a designer at Astral Dawn Studios I developed a passion for coding. While there I designed characters, levels and mechanics for Dodo Alone, a 2D pixel platformer. I got to grips with agile processes, sprints, stand ups and retros. Github was used throughout the whole process, so I got used to version control, difficult merges and rebases. Clear communication via good commits was essential. I now also understand the work flow in the tech industry.
 
