@@ -75,7 +75,7 @@ I have completed the Duke of Edinburgh Gold award. In terms of language, I am an
 
 **Waiter at St George's House Trust, Windsor, Windsor Castle (Sep 2019 - May 2020)**
 
-My experience as a waiter in St George�s House Conference Centre within Windsor Castle enabled me to strengthen my communication and team-building skills. This job also gave me an opportunity to work with people from diverse members of society. This position required careful listening and a willingness to work hard behind the scenes.
+My experience as a waiter in St George's House Conference Centre within Windsor Castle enabled me to strengthen my communication and team-building skills. This job also gave me an opportunity to work with people from diverse members of society. This position required careful listening and a willingness to work hard behind the scenes.
 
 **Designer/Developer at Astral Dawn Studios LTD (May 2020 - Sep 2020)**
 
