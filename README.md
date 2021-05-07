@@ -1,48 +1,26 @@
 # Karsten Finlay
-[Profile](#profile)| [Projects](#projects) | [Software Skills](#software-skills) | [Skills](#Skills) | [Education](#Education)
+[Profile](#profile) | [Projects](#projects) | [Skills](#Skills) | [Education](#Education)
 
 ## [Profile](#Profile):
 
-Graduate of Makers, junior full stack developer and enthusiastic learner. Constantly learning and applying my skills to new projects.
+Graduate of Makers, junior full stack developer and enthusiastic learner. Constantly learning and applying my inventiveness, leadership and teamwork to new projects.
+
+Avid video game player and game designer. I have 2 years of experience in game design and development, from creating games in game jams to creating a demo.
 
 Ever since the start of my journey at Makers Academy I have worked very well in groups, usually taking a more managerial like role. My use of agile tools and skills made it easy to work in large groups. I am a good communicator while also being flexible so that I can generate a solid team dynamic.
-
-Avid video game player and game designer. I have created multiple video games in game jams and just for fun.
 
 ## [Projects](#projects)
 
 | Name                         | Description | link  | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- | ------------------- |
 | **Dodo Alone**               | A platforming video game about a dodo trying to escape her extinction. | https://www.youtube.com/watch?v=OE4eqvqEwUo | Unity, C#. |
-| **Godzilla Tries His Best** | A minigame style video game about Godzilla fixing Japan. | https://globalgamejam.org/2020/games/godzilla-tries-his-best-8 | Unity, C#  |
+| **Godzilla Tries His Best** | A minigame style video game about Godzilla fixing Japan. | https://globalgamejam.org/2020/games/
+| **SpaceBook** | A FaceBook clone, a CRUD application. | https://github.com/KarstenFinlay/acebook-sholk | Ruby on Rails, Ruby, Javascript, CSS, HTML, Active Record |godzilla-tries-his-best-8 | Unity, C#  |
 | **Spring Onion** | Carbon offsetting app, created to help reduce the amount of carbon emissions given off by cars. | https://github.com/KarstenFinlay/SmellsLikeGreenSpirit | React-native, Expo Go, JavaScript, Jest, CSS |
-| **SpaceBook** | A FaceBook clone, a CRUD application. | https://github.com/KarstenFinlay/acebook-sholk | Ruby on Rails, Ruby, Javascript, CSS, HTML, Active Record |
 | **Air-PhP** | An air bnb clone, testing out the uses of databases. | https://github.com/KarstenFinlay/Air-PhP | Sinatra, Ruby, SQL, CSS, HTML  |
 
-## [Software Skills](#software-skills)
-
-* Languages:
-	1. Ruby
-	2. JavaScript
-	3. HTML
-	4. CSS
-	5. C#
-	6. C++
-
-* Frameworks:
-	1. Rails
-	2. Sinatra
-	3. React-native
-	4. Xcode
-
-* Testing-Frameworks:
-	1. Rspec
-	2. Jasmine
-	3. Jest
-	4. Capybara
-
-* CI/CD tools:
-	1. Travis
+### Other technologies
+C++, Xcode, Express, Travis, Jenkins and Docker 
 
 * A deep understanding of Github and Git
 * Test driven development
