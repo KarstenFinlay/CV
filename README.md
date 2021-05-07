@@ -14,8 +14,8 @@ Ever since the start of my journey at Makers Academy I have worked very well in 
 | Name                         | Description | link  | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- | ------------------- |
 | **Dodo Alone**               | A platforming video game about a dodo trying to escape her extinction. | https://www.youtube.com/watch?v=OE4eqvqEwUo | Unity, C#. |
-| **Godzilla Tries His Best** | A minigame style video game about Godzilla fixing Japan. | https://globalgamejam.org/2020/games/
-| **SpaceBook** | A FaceBook clone, a CRUD application. | https://github.com/KarstenFinlay/acebook-sholk | Ruby on Rails, Ruby, Javascript, CSS, HTML, Active Record |godzilla-tries-his-best-8 | Unity, C#  |
+| **Godzilla Tries His Best** | A minigame style video game about Godzilla fixing Japan. | https://globalgamejam.org/2020/games/godzilla-tries-his-best-8| Unity, C#|
+| **SpaceBook** | A FaceBook clone, a CRUD application. | https://github.com/KarstenFinlay/acebook-sholk | Ruby on Rails, Ruby, Javascript, CSS, HTML, Active Record |
 | **Spring Onion** | Carbon offsetting app, created to help reduce the amount of carbon emissions given off by cars. | https://github.com/KarstenFinlay/SmellsLikeGreenSpirit | React-native, Expo Go, JavaScript, Jest, CSS |
 | **Air-PhP** | An air bnb clone, testing out the uses of databases. | https://github.com/KarstenFinlay/Air-PhP | Sinatra, Ruby, SQL, CSS, HTML  |
 
