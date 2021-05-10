@@ -20,12 +20,13 @@ Ever since the start of my journey at Makers Academy I have worked very well in 
 | **Air-PhP** | An air bnb clone, testing out the uses of databases. | https://github.com/KarstenFinlay/Air-PhP | Sinatra, Ruby, SQL, CSS, HTML  |
 
 ### Other technologies
-C++, Xcode, Express, Travis, Jenkins and Docker 
+JavaScript, Ruby, C#, C++, Xcode, Express, Travis, Jenkins and Docker 
 
 * A deep understanding of Github and Git
-* Test driven development
+* Test driven development, red-green-refactor process
 * Decent knowledge on Agile processes
-* Understanding of object oriented programming 
+* Understanding of object oriented programming
+* The improtance of CI/CD within large scale projects
 
 ## [Skills](#Skills)
 
