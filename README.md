@@ -26,7 +26,7 @@ JavaScript, Ruby, C#, C++, Xcode, Express, Travis, Jenkins and Docker
 * Test driven development, red-green-refactor process
 * Decent knowledge on Agile processes
 * Understanding of object oriented programming
-* The improtance of CI/CD within large scale projects
+* The importance of CI/CD within large scale projects
 
 ## [Skills](#Skills)
 
